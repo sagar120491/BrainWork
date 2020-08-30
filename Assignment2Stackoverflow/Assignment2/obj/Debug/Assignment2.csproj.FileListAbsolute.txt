@@ -1,0 +1,7 @@
+D:\Aspc#\Project\Assignment2Stackoverflow\Assignment2\bin\Debug\Assignment2.exe.config
+D:\Aspc#\Project\Assignment2Stackoverflow\Assignment2\bin\Debug\Assignment2.exe
+D:\Aspc#\Project\Assignment2Stackoverflow\Assignment2\bin\Debug\Assignment2.pdb
+D:\Aspc#\Project\Assignment2Stackoverflow\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+D:\Aspc#\Project\Assignment2Stackoverflow\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\Aspc#\Project\Assignment2Stackoverflow\Assignment2\obj\Debug\Assignment2.exe
+D:\Aspc#\Project\Assignment2Stackoverflow\Assignment2\obj\Debug\Assignment2.pdb
